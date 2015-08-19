@@ -23,6 +23,7 @@ sudo servie tomcat7 restart
 
 # Launch site
 http://192.168.33.10:8080/HelloSpring/
+http://192.168.33.10:8080/HelloSpring/welcome
 
 # To commit changes to git
 $ git config --global user.name "sridhar jallapuram"
